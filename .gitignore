@@ -1,0 +1,6 @@
+#Ignore .css files
+#-----------
+source/css/
+*.css
+node_modules/
+node_modules/
